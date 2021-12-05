@@ -5,9 +5,14 @@ The goal of this project is to gather earthquake information from USGS API and c
 
 # Interactive Maps Available
 
-Streets view
+*Streets view*
 
-Satellite view
+![Streets](https://user-images.githubusercontent.com/89520192/144765389-d9efc8d5-4f15-4bf5-a56d-e11472665808.PNG)
 
-Dark view
-  
+*Satellite view*
+
+![Satellite](https://user-images.githubusercontent.com/89520192/144765386-751e43f1-a543-455b-afb6-25f4341343d4.PNG)
+
+*Dark view*
+
+![Dark](https://user-images.githubusercontent.com/89520192/144765375-4aa082ec-4700-4290-b099-3d68694ac0ee.PNG)
